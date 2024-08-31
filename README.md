@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Efraim, this is my repo
+- 👋 Hi, I’m Efraim
 - 👀 I’m interested in Web Development, Mobile Development, Machine Learning, even Cloud Computing 
-- 🌱 I’m currently learning Data Enginner
-- 📫 Mail me efraim.wijaya@outlook.com
+- 🌱 I’m still learning
