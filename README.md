@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Efraim
-- 👀 I’m interested in Web Development, Mobile Development, Machine Learning, even Cloud Computing 
-- 🌱 I’m still learning
+- 👀 I’m interested in Web Development, Mobile Development, Machine Learning, Cloud Computing, AI Engineering
+- 🌱 Still growing
